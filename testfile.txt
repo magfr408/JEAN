@@ -1,2 +1,0 @@
-line for commit 2
-line for commit 3
